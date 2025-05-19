@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Практика</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Практика</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 17 May 2025 22:13:09 +0300</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>кэт</title>
+            <link>http://localhost:1313/posts/my-first-post/</link>
+            <pubDate>Sat, 17 May 2025 22:13:09 +0300</pubDate>
+            
+            <guid>http://localhost:1313/posts/my-first-post/</guid>
+            <description>&lt;h2 id=&#34;1-проект-создание-3d-тренажера-пусконаладочных-установок-ас&#34;&gt;1. Проект &amp;ldquo;Создание 3D-тренажера пусконаладочных установок АС&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Наши цели&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Создание реалистичной и проработанной локации&lt;/li&gt;
+&lt;li&gt;Разработка реалистичных 3D моделей&lt;/li&gt;
+&lt;li&gt;Разработка сценария&lt;/li&gt;
+&lt;/ul&gt;</description>
+            <content type="html"><![CDATA[<h2 id="1-проект-создание-3d-тренажера-пусконаладочных-установок-ас">1. Проект &ldquo;Создание 3D-тренажера пусконаладочных установок АС&rdquo;</h2>
+<p><strong>Наши цели</strong></p>
+<ul>
+<li>Создание реалистичной и проработанной локации</li>
+<li>Разработка реалистичных 3D моделей</li>
+<li>Разработка сценария</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

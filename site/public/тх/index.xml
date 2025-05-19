@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Тхs on Практика</title>
+    <link>http://localhost:1313/%D1%82%D1%85/</link>
+    <description>Recent content in Тхs on Практика</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 17 May 2025 22:13:09 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/%D1%82%D1%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>отчеты с 01.04 по 28.05</title>
+      <link>http://localhost:1313/%D1%82%D1%85/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE/</link>
+      <pubDate>Sat, 17 May 2025 22:13:09 +0300</pubDate>
+      <guid>http://localhost:1313/%D1%82%D1%85/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE/</guid>
+      <description>&lt;h1 id=&#34;создание-игры-spaxe-invaders-на-c-с-нуля&#34;&gt;“Создание игры «Spaxe invaders»” на c++ с нуля”&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Установка необходиимых билиотек&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;установка библиротек GLFW&lt;/li&gt;&#xA;&lt;li&gt;установка библиротек GLEW&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Начало работы&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Подключение установленных библиотек&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;#include &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;#include &amp;lt;GLFW/glfw3.h&amp;gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Написание функций для вывода ошибок GLFW&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;typedef void(*GLFWerrorfun)(int, const char *)&lt;/p&gt;&#xA;&lt;p&gt;void error_callback(int error, const char* description)&lt;/p&gt;&#xA;&lt;p&gt;{&#xA;fprintf(stderr, &amp;ldquo;Error: %s\n&amp;rdquo;, description);&#xA;}&lt;/p&gt;&#xA;&lt;p&gt;glfwSetErrorCallback(error_callback);&lt;/p&gt;&#xA;&lt;p&gt;window = glfwCreateWindow(640, 480, &amp;ldquo;Space Invaders&amp;rdquo;, NULL, NULL);&lt;/p&gt;&#xA;&lt;p&gt;if(!window)&lt;/p&gt;&#xA;&lt;p&gt;{&#xA;glfwTerminate();&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;return -1;&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;}&lt;/p&gt;&#xA;&lt;p&gt;glfwMakeContextCurrent(window);&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Инициализация GLEW&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;GLenum err = glewInit();&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

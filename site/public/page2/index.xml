@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page2s on проект политех</title>
+    <link>http://localhost:1313/page2/</link>
+    <description>Recent content in Page2s on проект политех</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/page2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/page2/page-main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page2/page-main/</guid>
+      <description>&lt;h2 id=&#34;проект-создание-3d-тренажера-пусконаладочных-установок-ас&#34;&gt;Проект &amp;ldquo;Создание 3D-тренажера пусконаладочных установок АС&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;-Основной целью проекта является разработка и оптимизация виртуального тренажера для проведения испытаний насоса системы «чистого конденсата» на линии рециркуляции, включая сценарии как успешных испытаний, так и аварийных ситуаций.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Задачи&lt;/strong&gt;&#xA;-Изучить и проанализировать существующий алгоритм проведения испытаний.&lt;/p&gt;&#xA;&lt;p&gt;-Разработать 3D-модели насосов и компонентов системы в Blender.&lt;/p&gt;&#xA;&lt;p&gt;-Создать алгоритмы выполнения успешных и аварийных сценариев.&lt;/p&gt;&#xA;&lt;p&gt;-Внедрить обучающие подсказки и инструкции.&lt;/p&gt;&#xA;&lt;p&gt;-Реализовать реалистичные анимации и эффекты.&lt;/p&gt;&#xA;&lt;p&gt;-Интегрировать тренажёр с системой дистанционного обучения для автоматического выставления оценок за испытания и ведения статистики по пользователям.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

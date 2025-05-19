@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ппарпрs on Практика</title>
+    <link>http://localhost:1313/%D0%BF%D0%BF%D0%B0%D1%80%D0%BF%D1%80/</link>
+    <description>Recent content in Ппарпрs on Практика</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 17 May 2025 22:13:09 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/%D0%BF%D0%BF%D0%B0%D1%80%D0%BF%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>цели</title>
+      <link>http://localhost:1313/%D0%BF%D0%BF%D0%B0%D1%80%D0%BF%D1%80/my-first-post/</link>
+      <pubDate>Sat, 17 May 2025 22:13:09 +0300</pubDate>
+      <guid>http://localhost:1313/%D0%BF%D0%BF%D0%B0%D1%80%D0%BF%D1%80/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;1-проект-создание-3d-тренажера-пусконаладочных-установок-ас&#34;&gt;1. Проект &amp;ldquo;Создание 3D-тренажера пусконаладочных установок АС&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Наши цели&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Создание реалистичной и проработанной локации&lt;/li&gt;&#xA;&lt;li&gt;Разработка реалистичных 3D моделей&lt;/li&gt;&#xA;&lt;li&gt;Разработка сценария&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
