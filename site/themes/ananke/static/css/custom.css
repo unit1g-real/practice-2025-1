@@ -1,0 +1,26 @@
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* Центрировать меню по горизонтали */
+    align-items: center;
+    padding: 10px 0;
+}
+
+.menu {
+    width: 100%; /* Растянуть меню на всю ширину navbar */
+    display: flex;
+    justify-content: space-around; /* Равномерно распределить элементы по ширине */
+    list-style: none; /* Убрать маркеры списка */
+    margin: 0; /* Убрать отступы списка */
+    padding: 0; /* Убрать внутренние отступы списка */
+}
+
+.menu-item {
+    text-align: center; /* Выровнять текст по центру */
+}
+
+.menu-item a {
+    display: block; /* Сделать ссылки блочными элементами */
+    padding: 10px; /* Добавить отступы вокруг текста ссылок */
+    text-decoration: none; /* Убрать подчеркивание ссылок */
+}
